@@ -1,4 +1,4 @@
-mat_khau = "python123"
+mat_khau = "python"
 
 while True:
     mk = input("Nhập mật khẩu:")
