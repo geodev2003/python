@@ -1,5 +1,5 @@
 tuoi = int(input("Nhập tuổi:"))
-la_sinh_vien = input("Bạn là sinh viên (y: đúng , n: sai):")
+la_sinh_vien = input("Bạn là sinh viên (y: đúng , n: sai):").lower()          
 ngay = int(input("Bạn muốn xem phim vào thứ mấy (2-8):"))
 so_luong = int(input("Số lượng người xem là:"))
 
